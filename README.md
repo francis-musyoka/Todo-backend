@@ -35,9 +35,9 @@ A high-performance and secure backend API for a Todo List application, developed
 ## Getting Started  
 
 1. Clone the repository
-git clone https://github.com/francis-musyoka/Todo-backend.git
-cd Todo-backend
-cargo watch -x run
+- git clone https://github.com/francis-musyoka/Todo-backend.git
+- cd Todo-backend
+- cargo watch -x run
 
 ### Clone the Frontend repository 
 -  The frontend is implemented in Next.js + TypeScriptand lives in a separate repository.
